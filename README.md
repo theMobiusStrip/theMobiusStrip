@@ -6,6 +6,8 @@ Software engineer working on security-sensitive financial, blockchain, and cloud
 
 I have built detection and prevention systems, identity/security platforms, custody infrastructure, wallet services, staking systems, reconciliation workflows, SIEM telemetry, and cloud control planes for regulated and high-value environments.
 
+Writing: [Your Coding Agent Will Always Tell You It's Safe](https://themobiusstrip.github.io/): the thread connecting my agentic-security work from policy to fleet audit.
+
 ## Focus
 
 - Security-sensitive distributed systems
