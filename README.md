@@ -6,7 +6,7 @@ Software engineer working on security-sensitive financial, blockchain, and cloud
 
 I have built detection and prevention systems, identity/security platforms, custody infrastructure, wallet services, staking systems, reconciliation workflows, SIEM telemetry, and cloud control planes for regulated and high-value environments.
 
-Writing: [Your Coding Agent Will Always Tell You It's Safe](https://themobiusstrip.github.io/): the thread connecting my agentic-security work from policy to fleet audit.
+Writing: [Your Coding Agent Will Always Tell You It's Safe](https://themobiusstrip.github.io/) — on why agentic security reduces to agent trust, and why the verdict needs a watcher the agent can't reach.
 
 ## Focus
 
