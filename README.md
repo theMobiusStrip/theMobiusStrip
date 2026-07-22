@@ -6,7 +6,9 @@ Software engineer working on security-sensitive financial, blockchain, and cloud
 
 I have built detection and prevention systems, identity/security platforms, custody infrastructure, wallet services, staking systems, reconciliation workflows, SIEM telemetry, and cloud control planes for regulated and high-value environments.
 
-Writing: [Your Coding Agent Will Always Tell You It's Safe](https://themobiusstrip.github.io/) — on whether a coding agent belongs in your trusted computing base, and why answering that takes evidence from outside the agent.
+I also build and test practical defense-in-depth controls for AI agents—from behavioral policy to runtime enforcement and independent observation.
+
+Recent work: [Agentic Security Playbooks](https://github.com/theMobiusStrip/agentic-security-playbooks) · [Verifiable agent security](https://themobiusstrip.github.io/your-coding-agent-will-always-tell-you-its-safe/) · [Agentic payment guardrails](https://themobiusstrip.github.io/x402-payment-proxy/)
 
 ## Focus
 
